@@ -1,3 +1,5 @@
+// Developer: Cassidy Barr
+
 public class CeilingFan {
 
     private String fanSpeed;

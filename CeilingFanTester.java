@@ -1,3 +1,5 @@
+// Developer: Cassidy Barr
+
 import java.util.Scanner;
 
 public class CeilingFanTester {
